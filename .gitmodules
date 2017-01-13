@@ -1,0 +1,6 @@
+[submodule "dummy-non-admin"]
+	path = dummy-non-admin
+	url = git@github.com:chemouna/dummy-non-admin.git
+[submodule "dummy-admin"]
+	path = dummy-admin
+	url = git@github.com:chemouna/dummy-admin.git
